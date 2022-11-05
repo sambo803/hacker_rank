@@ -7,7 +7,7 @@
 # print the results of the array results of a and b showing results with a first and b second.
 
 a = [5, 6, 7]
-b = [3, 6, 10]
+b = [3, 9, 10]
 
 def compareTriplets(a, b)
   index = 0
