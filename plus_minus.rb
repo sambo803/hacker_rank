@@ -7,10 +7,9 @@
 # count the '0' valued numbers and save count as variable
 # print the proportion of '0' values to the total array
 
-arr = [-4, 3, -9, 0, 4, 1]
+arr = [-4, 3, -9, 0, 4, 0, 1, 6]
 def count_plus_minus(arr)
-  n = arr.length
-  n = n.to_f
+  n = arr.length.to_f
   index = 0
   pos_nums = 0
   neg_nums = 0
