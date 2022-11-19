@@ -1,0 +1,9 @@
+# Problem: Given timeConversion function, the input being the time in am/pm format (via string), convert it to military time (also in string format).
+# # input is given into the funtion timeConversion       
+# using an if-then-else statement
+
+def time_conversion (s)
+  
+  
+   end
+p time_conversion('03:04:34PM')
