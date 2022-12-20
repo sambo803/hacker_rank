@@ -35,4 +35,4 @@ def time_conversion (s)
   time_arr = time_arr.join
   puts time_arr
 end
-time_conversion('12:05:45AM')
+time_conversion('12:05:45PM')
